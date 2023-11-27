@@ -1,4 +1,4 @@
-    <div class="col-9"> 
+    <div class="col-10"> 
         <div class="container-fluid">
             <div class="row">
                 <div class="col-6 col-md-6 bg-primary">
