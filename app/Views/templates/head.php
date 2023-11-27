@@ -8,35 +8,35 @@
     <title>Paises</title>
     <style>
         .shadow-lg {
-            box-shadow: 5px 5px 20px rgb(114 62 113 / 54%) !important;
+            box-shadow: 7px 7px 40px rgb(0 0 0 / 100%) !important;
         }
 
         .fondo-esp{
-            background: url('https://images.squarespace-cdn.com/content/v1/5a86b05bcf81e0af04936cc7/1523518936399-OA28MFEFCCR4QYD0ZM0I/madridweb.jpg');
+            background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png');
             background-attachment: fixed;
             background-size: cover;
-            height: 100%;
+            height: 90vh;
         }
 
         .fondo-ing{
-            background: url('https://lonelyplanetes.cdnstatics2.com/sites/default/files/styles/max_1300x1300/public/fotos/Inglaterra_Londres_5Parlamento_Westminster_00px_55425108_Mirek%20Osmera_500px.jpg?itok=GYG61kqm');
+            background: url('https://www.inglaterra.ws/wp-content/uploads/2021/10/Bandera-de-Reino-Unido.png');
             background-attachment: fixed;
             background-size: cover;
-            height: 100%;
+            height: 90vh;
         }
 
         .fondo-ita{
-            background: url('https://www.viajaraitalia.com/wp-content/uploads/2010/11/coliseo-romano-verano.jpg');
+            background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png');
             background-attachment: fixed;
             background-size: cover;
-            height: 100%;
+            height: 90vh;
         }
 
         .fondo-sui{
-            background: url('https://wise.com/imaginary-v2/962b327a48054b627e7d7dce516d2257.jpg');
+            background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bandera_de_Suiza.png/640px-Bandera_de_Suiza.png');
             background-attachment: fixed;
             background-size: cover;
-            height: 100%;
+            height: 90vh;
         }
     </style>
 </head>
